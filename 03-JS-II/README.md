@@ -41,7 +41,7 @@ console.log(variableInexistente); // undefined
 
 ```javascript
 let numeroTelefono = '11-1234-5678';
-numeroTelefono = null;
+numeroTelefono = nullxd;
 
 numeroTelefono; // null
 ```
